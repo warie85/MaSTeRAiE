@@ -231,3 +231,6 @@ https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="",ZeeCinema
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",boomerang
+https://vcdnjt.useetv.com:443/joss/15/boomerang/chunklist_w1894174703_b684100_sleng_177560.m3u8
