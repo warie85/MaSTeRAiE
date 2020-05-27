@@ -168,5 +168,62 @@ https://vcdnjt.useetv.com:443/joss/15/tvnmovies/chunklist_w1311799834_b684100_sl
 #EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Warner
 https://vcdnjt.useetv.com:443/joss/15/warner/chunklist_w1332206438_b684100_sleng_177560.m3u8
 
-#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Tastemade (Test)
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",SOne
 https://vcdnjt.useetv.com:443/joss/15/sone/chunklist_w1311799834_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",BabyTV
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Dreamworks
+https://vcdnjt.useetv.com:443/joss/15/dreamworks/chunklist_w1311799834_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",KBSWorls Backup
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1589176270/ei/bpO4XrLvF5axwgOm6IDIBA/ip/116.86.86.61/id/4gwqZ
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",KBSWorld
+https://vcdnjt.useetv.com:443/joss/15/kbsworld/chunklist_w1311799834_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",KidsSentral
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/720p-playlist.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",Kplus
+https://vcdnjt.useetv.com:443/joss/15/kplus/chunklist_w1311799834_b684100_sleng_177560.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+
+#EXTINF:-1 group-title="SUKAN" tvg-group="SUKAN" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM SPORTS HD
+https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="ISLAMIK" tvg-logo="https://i.imgur.com/469hshv.png" group-title="ISLAMIK",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV ALHIJRAH
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1590343311/ei/L2LKXsX-OevW3LUPoJKucA/ip/202.187.249.184/id/kou9tPR7YTU.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30as.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10500/mh/iK/mm/44/mn/sn-uphxqvujvh-30as/ms/lva/mv/m/mvi/0/pl/18/dover/11/keepalive/yes/mt/1590321614/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgMUXtaCuklmjxKmtV8pRUDXCxGA32q_0hWgCxBZQh-TECIQDow-IPnkUNJPX0sI5C5WULqlamj343Ti8Lavpv0y-NEw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgCeP-5LtbbNwoGlOoXYK47QKr-d3wB1LJr4A7DvjoVW0CIQCcY7b7UdtfzuAK_jnjuzprHxHTRxrgKEEtybU9lm2YnA%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCa5Go98H_EQOqwjYgx5-suw/live
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_360p/chunks.m3u8
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 group-title="ISLAMIK" tvg-group="ISLAMIK" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TVIKIM
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KARTUN" group-title="KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/59/DisneyJunior_2019Logo.png/1200px-DisneyJunior_2019Logo.png",DISNEY JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-id="KARTUN" group-title="KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/59/DisneyJunior_2019Logo.png/1200px-DisneyJunior_2019Logo.png",DISNEY JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",NatGeoPeople
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="",NatGeoPeople
